@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on dart language
-- 📫 How to reach me ...
+- 📫 you can access me 'ranahafeez6820@gmail.com'
 
 <!---
 hafeezrana/hafeezrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
