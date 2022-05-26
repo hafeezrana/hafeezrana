@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hafeezrana
-- i am a student of Bachelor in Software Engineering in a Varsity
+-  Hi! 
+-  I’m @hafeezrana
+-  I'm a student of Bachelor in Software Engineering in a Varsity
 -  I’m interested in flutter development
 -  I’m currently learning flutter
-- 💞️ I’m like to collaborate on flutter
+-  I like to collaborate on flutter/dart
 -  you can access me 'ranahafeez6820@gmail.com'
 
 <!---
