@@ -5,7 +5,7 @@
 -  I’m currently learning flutter
 -  I like to collaborate on flutter/dart
 -  you can access me 'ranahafeez6820@gmail.com'
--  you can also follow me on twitter to get regular the updates regarding flutter and much more 
+-  you can also follow me on twitter to get the updates regarding flutter and much more 
 -  twitter : https://twitter.com/hfz_rana
 
 <!---
