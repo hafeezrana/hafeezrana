@@ -1,7 +1,7 @@
 -  Hi..! 
 -  I’m Hafeez Rana
 -  I work with Dart & Flutter and tweet about Flutter 
--  reach me: @hfz_rana
+-  reach me: 
 -  twitter: https://twitter.com/hfz_rana
 -  linkedIn: https://www.linkedin.com/in/hafeez-rana
 
