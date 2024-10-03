@@ -5,6 +5,8 @@
 -  portfolio: https://hafeezrana.com
 -  twitter: https://twitter.com/hfz_rana
 -  linkedIn: https://www.linkedin.com/in/hafeez-rana
+-  tiktok: https://tiktok.com/@hafeezrana.dev
+-  instagram: https://instagram.com/@hafeezrana.dev
 
 <!---
 hafeezrana/hafeezrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
