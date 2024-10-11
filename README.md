@@ -3,10 +3,10 @@
 -  I work with Dart & Flutter and tweet about Flutter 
 -  reach me:
 -  portfolio: https://hafeezrana.com
--  twitter: twitter.com/hfz_rana
--  linkedIn: linkedin.com/in/hafeez-rana
--  tiktok: tiktok.com/@hafeezrana.dev
--  instagram: instagram.com/@hafeezrana.dev
+-  twitter: https://twitter.com/hfz_rana
+-  linkedIn: https://linkedin.com/in/hafeez-rana
+-  tiktok: https://tiktok.com/@hafeezrana.dev
+-  instagram: https://instagram.com/@hafeezrana.dev
 
 <!---
 hafeezrana/hafeezrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
