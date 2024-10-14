@@ -7,6 +7,7 @@
 -  linkedIn: https://linkedin.com/in/hafeez-rana
 -  tiktok: https://tiktok.com/@hafeezrana.dev
 -  instagram: https://instagram.com/@hafeezrana.dev
+-  youtube: https://www.youtube.com/@DeveloperHafeez
 
 <!---
 hafeezrana/hafeezrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
