@@ -8,6 +8,7 @@
 -  linkedIn: https://linkedin.com/in/hafeez-rana
 -  tiktok: https://tiktok.com/@hafeezrana.dev
 -  instagram: https://instagram.com/@hafeezrana.dev
+-  facebook: https://www.facebook.com/hafeezrana.dev
 -  youtube: https://www.youtube.com/@DeveloperHafeez
 
 <!---
